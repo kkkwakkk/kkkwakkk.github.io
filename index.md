@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 꽉시의 싱싱한 하루 >_<
+title: 꽉시의 싱싱한 하루 >_<input
 subtitle: kkkwakkk-sieun's Fresh Day
 ---
 
@@ -16,3 +16,9 @@ subtitle: kkkwakkk-sieun's Fresh Day
 - 멋지게 살기
 - 긍살(중요!)
 - 열심히 살자아아악
+
+| table head | head 2|
+| -- | -- |
+| contents | contents2|
+
+<input type="button" value="Btton" onclick="javascript:alert('Clicked')"/>
