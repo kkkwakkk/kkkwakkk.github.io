@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 꽉시의 싱싱한 하루 >_<ㄴ
+title: 꽉시의 싱싱한 하루 >_<
 subtitle: kkkwakkk-sieun's Fresh Day
 ---
 
