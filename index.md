@@ -1,9 +1,18 @@
 ---
 layout: page
-title: Konkuk CCC
-subtitle: Konkuk Univercity Campus Crusade for Christ.
+title: 꽉시의 싱싱한 하루 >_<
+subtitle: kkkwakkk-sieun's Fresh Day
 ---
 
 <br/>
 
-# Contents ...
+### 개강이ㄷr,,,,,,
+## 종강마려워 으악
+# 내 방학 내놔ㅏㅏㅏㅏㅏ
+###### 공부하기 시러잉 노는 게 제일 좋아 눈누난나
+- 공부 열심히 하기
+- 놀 땐 열심히 놀기
+- 적당히 놀기
+- 멋지게 살기
+- 긍살(중요!)
+- 열심히 살자아아악
