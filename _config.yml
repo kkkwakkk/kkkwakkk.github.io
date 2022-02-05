@@ -1,13 +1,13 @@
 # --- Required options --- #
 
 # [수정필요] 웹 페이지 이름
-title: Konkuk Univ CCC
+title: 꽉시의 싱싱한 하루
 
 # [수정필요] 간단한 사이트 설명
-description: Konkuc Univercity Campus Crusade for Crist
+description: kkkwakkk-Sieun's Fresh day
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: KUCCC
+author: sieun
 
 # --- List of links in the navigation bar --- #
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
@@ -24,7 +24,7 @@ navbar-links:
 # --- Logo --- #
 
 # [수정필요] 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/kuccc-logo.jpeg"
+avatar: "/assets/img/letsgogosing.png"
 
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
@@ -39,20 +39,20 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+  email: "jemimah1118@konkuk.ac.kr"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: konkuk-univ-ccc
+  github: kkkwakkk
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: channel/UCbid8w7HhGuqAIhACWpisSg
+  youtube: channel/UCWrB8WPJlMVqhReWHWlp6Tg
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: ccc_konkuk
+  instagram: kkkwakkk_c
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
