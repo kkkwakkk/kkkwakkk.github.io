@@ -21,4 +21,4 @@ subtitle: kkkwakkk-sieun's Fresh Day
 | -- | -- |
 | contents | contents2|
 
-<input type="button" value="Btton" onclick="javascript:alert('Clicked')"/>
+<input type="button" value="눌러보든가~" onclick="javascript:alert('메뤙')"/>
